@@ -1,6 +1,6 @@
 cask "solix" do
   version "1.0.4"
-  sha256 "eaf621d43ddeb3944f580b8dc241e7dd0ca27527b5091acdfc39d2b6edf5546a"
+  sha256 "70e1aa9b9bac3f1edfc28985bab9d4a8d4e4433b89f72adbb548ab3881d99ed8"
 
   url "https://solix.fyi/Solix-macOS.zip"
   name "Solix"
@@ -17,6 +17,7 @@ cask "solix" do
     "~/Library/Caches/com.aimo.solixhost",
     "~/Library/Preferences/com.aimo.solixhost.plist",
     "~/Library/LaunchAgents/com.aimo.solixhost.plist",
+    "~/Library/LaunchAgents/com.aimo.solixmcpcloud.plist",
   ]
 
   caveats <<~EOS
