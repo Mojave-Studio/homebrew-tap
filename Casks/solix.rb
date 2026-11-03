@@ -1,6 +1,6 @@
 cask "solix" do
   version "1.0.4"
-  sha256 "4efb02517de49e70ce24f214b1fd56b81dc0a89bb71777d15fa8ad55ca203cfe"
+  sha256 "7acbe14d6c44f01a89876f7c96f843099b5d36bd812f88dd4813a168112f742c"
 
   url "https://solix.fyi/Solix-macOS.zip"
   name "Solix"
